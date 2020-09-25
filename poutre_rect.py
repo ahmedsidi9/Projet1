@@ -12,5 +12,5 @@ I =
 
 # Calcul de la déformation maximale
 
-delta_max = 
+delta_max = 0
 
